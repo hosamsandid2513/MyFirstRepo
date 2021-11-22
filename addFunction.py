@@ -1,3 +1,4 @@
 def addFuncti(x,y):
-    print(x + y)
+    z = x + y
+    print(z)
     
